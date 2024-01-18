@@ -1,1 +1,1 @@
-# .github
+# BrainHack Vanderbilt
